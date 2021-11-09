@@ -37,6 +37,10 @@ body {
 
 .nav-contacts {
   color: var(--current-text-color);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 14;
+  letter-spacing: 2%;
 }
 
 .nav-link:hover,
@@ -170,7 +174,7 @@ body {
 }
 
 .cards-text {
-  line-height: 19px;
+  line-height: 1, 87;
   letter-spacing: 0.03em;
   text-align: center;
 }
@@ -199,6 +203,8 @@ body {
 .footer-text {
   color: var(--current-white-color);
   font-style: normal;
+  font-size: 16px;
+  line-height: 1, 71;
 }
 
 .footer-link {
